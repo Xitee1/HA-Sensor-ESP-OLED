@@ -18,7 +18,7 @@ The usb connector to the top is also pretty tight.
 I also didn't made a cover yet.
 
 Then connect everything.<br>
-There are 3 buttons:
+There are 3 buttons (pins can be changed of course):
 - pin 12: back button - to go a page back to the last entity
 - pin 13: set button - currently only to toggle the display on and off
 - pin 14: forward button - to go a page forward to the next entity
