@@ -1,7 +1,6 @@
 # HomeAssistant entity sensor ESP OLED display
 Display HA sensors like temperature or power consumption on a tiny OLED 1,3" display (other resolutions should work too, but code modifications might be required)
 
-
 # Hardware
 You need:
 - Some ESP8266 board
@@ -26,8 +25,17 @@ There are 3 buttons:
 
 # Installation
 - Open the project in Arduino IDE
+- Install required libraries*
 - Configure WiFi, HA Token and entities
 - Upload to your ESP
+
+*Libraries:
+I don't know exactly what I have installed.
+From what I know:
+- U8G2 by oliver
+- NTPClient by Fabrice Weinberg
+- ArduinoJSON by Benoit Blanchon
+- ArduinoHttpClient by Arduino
 
 It will boot up and should show a little startup-screen while connecting to WiFi.
 After that it should show one of your configured entities. It automatically gets the entity name, state and unit.
