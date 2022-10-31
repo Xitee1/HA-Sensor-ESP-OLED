@@ -50,5 +50,6 @@ With the "set"-button you can toggle the display on and off ("standby").
 # Planned
 - Make the display dimmable
 - Turn on WiFi sleep while the display is toggled off ([Modem-Sleep](https://diyi0t.com/how-to-reduce-the-esp8266-power-consumption/))
+- History graphs
 
 
