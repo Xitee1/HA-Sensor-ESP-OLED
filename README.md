@@ -1,6 +1,8 @@
 # HomeAssistant entity sensor ESP OLED display
 Display HA sensors like temperature or power consumption on a tiny OLED 1,3" display (other resolutions should work too, but code modifications might be required)
 
+![20221030_200049](https://user-images.githubusercontent.com/59659167/198964605-3b8d9dac-153a-4761-849e-2428d5607474.jpg)
+
 # Hardware
 You need:
 - Some ESP8266 board
