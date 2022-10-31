@@ -10,7 +10,7 @@ You need:
 - 3 buttons
 - Optional: 3D-Printed case*
 
-I am using a NodeMCUv2 and these OLED displays: https://smile.amazon.de/gp/product/B07FYG8MZN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+I'm using a NodeMCUv2 and these [Oled displays](https://www.amazon.de/gp/product/B07FYG8MZN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).<br>
 I don't know how it works with other hardware, but displays with a different resolution might require code modifications, other than u8g2 display change.
 
 *Case:
@@ -49,6 +49,6 @@ With the "set"-button you can toggle the display on and off ("standby").
 
 # Planned
 - Make the display dimmable
-- Turn on WiFi sleep while the display is toggled off (Modem-Sleep: https://diyi0t.com/how-to-reduce-the-esp8266-power-consumption/)
+- Turn on WiFi sleep while the display is toggled off ([Modem-Sleep](https://diyi0t.com/how-to-reduce-the-esp8266-power-consumption/))
 
 
